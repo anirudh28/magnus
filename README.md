@@ -6,5 +6,4 @@ AR BASED HOME AUTOMATION SYSTEM FOR LAZY...
 5) Arduino will further be attached to your home mains mcb's (this is the place where wires from all components go through)
 6) Arduino and combination of heavy transistors or relay circuit will turn the device ON or OFF.
 
-extra's and other methods
 all wireless can be turned on or off even without use of camera by pre-registering electrical components and creating buttons in an application to turn off or on any appliance throughout the home
