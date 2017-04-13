@@ -1,1 +1,4 @@
+1txt- 3AM
+Android to arduino communication over bluetooth works just fine.
+ARDUINO can control LEDs/appliances
 
