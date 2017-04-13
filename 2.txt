@@ -1,1 +1,12 @@
+What all have we done?
+
+Overall our basic idea works :) Successfully with no errors/exceptions.
+1) You can now use the app to control the LED's/Appliances at your place
+2) AR works shockingly well
+3) Arduino easily controls the appliances using serial ports.
+
+Whats next? 
+1) Making the objects (appliances look better), 
+2)have some design and sexy feel
+3) Display more appliances(not really needed though)
 
